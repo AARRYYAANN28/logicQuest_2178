@@ -1,2 +1,10 @@
 # logicQuest_2178
-Some noobs trying to make a cpu 
+
+SOME NOOBS TRYING TO MAKE A CPU!!!
+
+
+Team members
+1) ARYAN GUPTA
+2) SAUJAN PANJA
+3) ADITYA SINGH
+4) MANJEET CHITODIYA
